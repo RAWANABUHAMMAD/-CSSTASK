@@ -1,38 +1,398 @@
-    #task1#
 
-      .brown{
-      color:blueviolet;
+/* this is task 1 CSS */
+
+.task1 .text1 {
+  color: blueviolet;
+}
+
+.task1 .text2 {
+  color: red;
+}
+
+.task1 .text3 {
+  color: blue;
+}
+
+.task1 .text4 {
+  color: green;
+}
+
+.task1 .text1{
+  background-color: aliceblue;
+}
+
+
+
+
+/* this is task 2 CSS */
+
+.task2 .fontsize {
+  font: size 18px;
+}
+.style {
+  color: gray;
+  font: size 30px;
+}
+.decoration {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font: size 1.5em;
+  color: gray;
+}
+.design {
+  color: blueviolet;
+  font-size: 25px;
+  font-style: italic;
+} 
+
+
+
+
+/* this is task 3 CSS */
+.task3 h1{
+  text-align: center;
+
+} 
+.task3 .id
+  {text-align: left;
+}
+.task3 .text1
+{
+  text-align: right;
+}
+.task3 .capital{
+  text-transform: uppercase;
+}
+.task3 .text2{
+  text-align: center; text-decoration: overline  ;
+}
+.task3 .small{
+  text-transform: lowercase;
+}
+.task3 .text3{
+  text-align: left;text-decoration: line-through;
+}
+
+
+/* this is task 4 CSS */
+.task4 .Heading    
+{text-align: center; 
+  color: white;
+  font-size: 20px;
+  background-color:rgb(70, 70, 121) ;
+}
+.task4 .title{
+  color: red ;
+  text-decoration: underline;
+}
+.task4 .Ref{
+  text-align: center;
+  background-color: rgb(70, 70, 120);
+  text-transform: lowercase;
+  color: white;
+}
+
+
+
+/* this is task 5 CSS */
+
+.task5{
+  background-image:url(Imge/image1.jpg) ;
+}
+.task5 .r1{
+  text-align: center;
+  text-transform: capitalize;
+}
+.task5 .r2{
+  text-align: left;
+  color: red
+
+}
+.task5 .r3{
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+.task5 .r4 {
+  color:red ;
+  background-color: yellow;
+  border: 5px ;
+  padding: 5px; }
+
+
+
+  /* this is task 6 CSS */
+  .task6 {
+    background-image:url(Imge/image6.jpg);
+    background-size:auto;
+    background-repeat:repeat-y;
+ }
+
+  /* this is task 7 CSS */
+     .task7 {
+      background-image:url(Imge/image7.jpg) ;
+      background-size:auto ;
+      background-repeat:repeat;
       }
-      .red{
-        color:red;
-      } .blue{
-        color: blue;
-      }
-      .green{
-        color:green;
-      }
+    .task7 .b1 {
+      text-decoration: underline;
+      color: red;
+      text-transform: capitalize;
+      background-color: white;
+    }
+    .task7 .b3{
+      background-color: white;
+      text-transform:lowercase;
+      font-size: small;
+      text-align: left;
+       }
+       .task7 .b4{
+      background-color: white;
+      text-transform:lowercase;
+      font-size: small;
+      text-align: left;
+
+       }
+       .task7 .mark {
+        color:rgba(0, 139, 139, 0.866);
+        text-decoration: underline;
+        text-transform: uppercase;
+        font-weight: bold;
+         }
+
+
+ /* this is task 8 CSS */
+  .task8 .subtitle{
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: red;
+  }
+     .task8 .line{
+      text-transform:lowercase;
+      background-image: url(Imge/pink.jpg),
+      url(Imge/red.webp);
+      background: size 50%,50% ;
+      background-position:left to right;
+      background-repeat: no-repeat,no-repeat; 
+      color:white ;
+    }
+
       
-      #task2#
-      .fontsize{
-        font: size 18px; ;
-      }
-      .style{color: gray; font: size 30px; ;
-
-      }
-      .decoration{
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font: size 1.5em;color:gray ;text-decoration: underline;
-
-      }.design{
-       color:blueviolet; font-size: 25px; font-style: italic;
-
-      }
+     
 
 
 
+/* this is task 9 CSS */
+      
+.task9 .text{
+  height: 50px; ;
+  padding: 100px; 
+   text-align: center;
+  text-transform: capitalize;
+  background-image:linear-gradient(to right, #a86aa4 50%, 
+  #cc6b8e 62%, 
+  #f3a469 87%, 
+  #f7c978 100% ) ;
+  font-weight: bold;
+  font-size:large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+
+
+    /* this is task 10 CSS */
+    .task10 .i1 {
+      padding: 10px;
+      margin: 5px; ; 
+      color: white;
+      background-color: rgb(0, 132, 255);
+    }
+    .task10 .i2 {
+     padding: 10px;
+     margin: 5px;
+     color: #000;
+     background-color:white;
+    }
+    .task10 .i3{
+      padding:10px ;
+      margin:5px ;
+      color:white ;
+      background-color:#ec26a0d0 ;
+    }
+    .task10 .i4 {
+      padding:10px ;
+      margin:5px ;
+      color: #000;
+      background-color:orange ;
+    }
+
+
+
+    /* this is task 11 CSS */
+    .task11 {
+      background-color: antiquewhite;
+      border: 10px solid black;
+      margin: 40px auto;
+      padding: 30px;
+         
+     }
+
+     .task11 .contact{
+      text-align: center;
+      border: 15px; ;
+      padding:10px ;
+      margin:5px ;
+      color: white;
+      background-color:peru ;
+     
+     }
+     .task11 .N{
+      border: 15;
+      padding:10px ;
+      margin:5px ;
+      color:black;
+      width: 1000px; 
+     }
+     .task11 .E{
+      border: 15;
+      padding:10px ;
+      margin:5px ;
+      color:black;
+      width: 1000px;
+     }
+
+     .task11 .S{
+      border:15 ;
+      padding:10px ;
+      margin:5px ;
+      color:black;
+      width: 1000px;
+     }
+     .task11.M{
+      border: 15px; ;
+      padding:10px ;
+      margin:5px ;
+      color:black;
+      width: 1000px;
+     }
+     .task11 .send{
+      border: 20px; ;
+      padding:10px ;
+      margin:5px ;
+      color: white;
+      background-color:orange ;
+      text-align: center;
+     }
+
+
+     /* this is task 12 CSS */
+     .tr{
+      background-color: red;
+     }
+
+
+    
+
+
+
+     /* this is task 13 CSS */
+
+    .task13 {
+      background-image: url(Imge/img.jpg) ,
+      url(Imge/image13.jpg);
+      background-repeat: repeat-y,repeat-x;
+      background-size: contain;
+     }
+       .task13 .H{
+      text-transform: lowercase;
+      font-size: x-small;
+      line: height 3px; 
+    
+      
+    }
+    /* this is task 14 CSS */
+    .task14 {
+      background-color:rgba(248, 248, 175, 0.693) ;  
+    }
+   .task14 .budget{
+     color: #700909;
+    font-size: large;
+    }
+   .task14 .des{
+    font-size: small;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    .task14 .M1{
+      background-color: aqua;
+
+    }
+
+
+    
+
+
+
+     
+
+
+
+
+
+
+
+
+    
+  
+    
+    
+
+
+    
+
+     
+
+  
+
+
+
+
+    
+
+    
+    
+    
+   
 
       
+     
 
-        
-      
-        
+
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
